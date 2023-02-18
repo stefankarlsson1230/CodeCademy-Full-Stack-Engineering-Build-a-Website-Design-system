@@ -1,0 +1,116 @@
+body {
+    width: 70%;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;;
+}
+
+section {
+    padding: 10px;
+    border: solid 2px DarkGray;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+/* Colors */
+.colorbox {
+    display: inline-block;
+    width: 33%;
+    min-width: 200px;
+    margin: 2px auto;
+}
+
+.colorbox p {
+    text-align: center;
+    color: floralwhite;
+}
+
+#darkgreen {
+    background-color: darkgreen; 
+}
+
+#darkolivegreen {
+    background-color: darkolivegreen; 
+}
+
+#darkgray {
+    background-color: darkgray; 
+}
+
+#darkslategray {
+    background-color: darkslategray; 
+}   
+
+
+/* Fonts */
+.fontbox {
+    display: inline-block;
+    width: 40%;
+    min-width: 200px;
+    margin: 2px auto;
+    vertical-align: top;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.weight200 {
+    font-weight: 200;
+}
+
+.weight400 {
+    font-weight: 400;
+}
+
+.weight700 {
+    font-weight: 700;
+}
+
+.weight900 {
+    font-weight: 900;
+}
+
+#GrapeNuts {
+    font-family: 'Grape Nuts', cursive;
+}
+
+#Oswald {
+    font-family: 'Oswald', sans-serif;
+}
+
+#Merriweather {
+    font-family: 'Merriweather', serif;
+}
+
+
+/* Text Styles */
+.stylebox {
+    display: inline-block;
+    width: 30%;
+    min-width: 300px;
+}
+
+h1 {
+    font-family: 'Grape Nuts', cursive;
+    Font-size: 36px;
+}
+
+h2 {
+    font-family: 'Merriweather', serif;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 26px;
+}
+
+p {
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+}
+
