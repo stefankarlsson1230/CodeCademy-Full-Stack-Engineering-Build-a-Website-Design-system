@@ -28,4 +28,6 @@ Your style guide/design system will include at least a section on colors, fonts,
 
 ---
 
+### Result
+
 [My final page](https://stefankarlsson1230.github.io/CodeCademy-Full-Stack-Engineering-Build-a-Website-Design-system/).
